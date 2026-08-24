@@ -51,9 +51,9 @@
   * Web application for browsing movies, searching titles, and viewing detailed media information via API integration.
   * **Tech:** React, JavaScript, REST API, Tailwind CSS
 
-* 📝 **To-Do List App**
-  * Task management application with interactive features to organize daily activities, track progress, and manage state.
-  * **Tech:** JavaScript, React, CSS3
+* 📋 **Kanban-Task Manager App**
+  * A React Kanban task manager with drag-and-drop columns, task filtering, priority management, and local storage persistence.
+  * **Tech:** React, JavaScript, Context API, Tailwind CSS
 
 ---
 
